@@ -49,43 +49,23 @@ responsible translation.
 =======
 \thispagestyle{empty}
 
-The goal of this book is to provide a basic understanding of
-the technical design and architecture of the Internet.
-The book is aimed at all audiences -- even those with absolutely no prior
-technical experience or math skills.  The Internet is an amazingly beautiful
-design and should be understood by all who use it.
+이 책의 목표는 인터넷의 기술적인 설계와 구조에 대한 기본적인 이해를 제공하는 것입니다.
+이 책은 대부분의 학생들이 읽을 수 있습니다 -- 관련된 기술에 대한 어떤 선행 지식이나 수학 지식이 없도라도.  인터넷은 놀랍도록 아름답게 설계되었고 그것을 사용하는 모든 사람들은 이해할 수 있습니다.
 
-While this book is not about the Network+ or CCNA
-certifications, I hope it serves as a way to give students
-interested in these certifications a good starting point.
+이 책은 Network+ 나 CCNA와 같은 자격증에 대한 책은 아니지만, 학생들이 그런 자격증에 대한 흥미를 느끼게 만드 좋은 출발점이 될 수 있기를 희망합니다.
 
-I want to thank Pamela Fox of Khan Academy for coming up with
-the idea of an introductory network technology course using open
-materials.
+공개 학습자료를 이용한 네트워크 기술 입문 과정 교육에 대한 아이디어를 준 칸 아카데미의 파멜라 폭스에게 감사 인사를 전하고 싶습니다.
 
-I initially developed this material as a single week's lecture in
-the *SI502 - Networked Computing* course that I taught at the
-University of Michigan School of Information starting in 2008.
-I refined and expanded the material to be three weeks of the
-Internet History, Technology, and Security (IHTS) course
-that I have taught to over 100,000 students on Coursera
-starting in 2012. This book adds further detail to create a standalone
-text that can be read for enjoyment or used to support an introductory course
-that focuses on the Internet's architecture.
+저는 이 학습자료를 2008년에 처음 미시간 대학교 정보대학에서  *SI502 - 네트워크 컴퓨팅* 과정의 1주일짜리 강의로 개발했습니다.
+그 뒤로 학습자료를 좀 더 다듬고 인터넷의 역사, 기술 및 보안(IHTS) 과정으로 확장하여 3주 짜리 강의로 만들어서 2012년 부터 Coursera에서 10만명이 넘는 학생들에게 가르쳐 왔습니다.
+이 책에는 거기에 더해 재미로 읽을 거리나 인터넷의 구조에 초점을 맞춘 입문과정을 지원하는데 사용할 수 있는 내용이 추가되어 있습니다.
+ 
+이 책은 나의 친구 마우로 토셀리와 수 블룸버그와 협업하여 만들어진 점에서 특별히 재미있었습니다. 저는 2012년에 마루오와 수를 만났는데, 그들이 저의 Coursera의 IHTS 과정을 위해 자원봉사가 되었을 때였습니다.
+지난 3년 동안 우리는 친구가 되었고 이것은 열린 교육이 사람들을 하나로 모을 수 있는 훌륭한 사례입니다.
 
-This book has been particularly fun in that it is a collaboration
-with my friends Mauro Toselli (@xlontrax) and Sue Blumenberg.  I met Mauro and
-Sue in 2012 when they became volunteer Community Teaching Assistants (CTAs)
-for my IHTS course on Coursera.  Over the past three years we have become
-friends and colleagues.   It is a great example of how open education
-can bring people together.
-
-There is supporting material for this book at
-
+아래 링크에 이 책을 지원하는 학습 자료가 있습니다.
 http://www.net-intro.com/
-
-If you like the book, let us know.  Send us a tweet with your thoughts.
-You can also send a tweet if you find an error in the book.
+이 책이 마음에 든다면, 알려주세요. 당신의 생각이나 책의 오류를 찾게 된 경우에도 트윗을 보내주세요.
 
     Charles R. Severance (@drchuck)
     www.dr-chuck.com
