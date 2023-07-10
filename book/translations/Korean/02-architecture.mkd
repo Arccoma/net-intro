@@ -1,4 +1,5 @@
-Network Architecture
+2장 Network Architecture
+통신망 구조(通信網 構造)  
 ====================
 
 \index{NSFNet}

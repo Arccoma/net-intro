@@ -1,4 +1,5 @@
-Link Layer
+3장 Link Layer 
+연결 계층(連結階層) 
 ==========
 
 \index{Link Layer}

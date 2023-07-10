@@ -44,7 +44,8 @@ responsible translation.
 
 \cleardoublepage
 
-Preface
+발간사(發刊辭)
+책을 펴내며 붙이는 글
 =======
 \thispagestyle{empty}
 

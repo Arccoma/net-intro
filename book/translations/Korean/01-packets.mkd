@@ -1,8 +1,10 @@
 % Introduction to Networking
+    통신망에 대한 소개
 % Charles Severance
+    찰스 세브란스
 %
 
-Introduction
+1 장  서론
 ============
 
 Using the Internet seems pretty easy. We go to a web address and

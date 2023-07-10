@@ -1,4 +1,7 @@
-Secure Transport Layer
+8장 Secure Transport Layer
+안전한 전송 계층? or
+Transport Layer Security?
+전송 계틍 보안?
 ======================
 
 \index{Transport Layer}

@@ -1,4 +1,5 @@
-Application Layer
+7장 Application Layer
+응용 계층( 應用階層)
 =================
 
 \index{Application Layer}

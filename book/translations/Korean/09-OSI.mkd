@@ -1,4 +1,5 @@
-The OSI Model
+9장 The OSI Model
+개방형 체계 간 상호 접속 모형(開放形 體系間 相互接續 模型)
 =============
 
 So far we have spent all of our time describing the four-layer model

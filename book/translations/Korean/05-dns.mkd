@@ -1,4 +1,5 @@
-The Domain Name System
+5장 The Domain Name System
+통신망에 접속된 컴퓨터에 이름 붙이기 
 ======================
 
 \index{Domain Name System}
